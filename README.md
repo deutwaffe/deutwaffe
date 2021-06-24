@@ -1,6 +1,4 @@
 ## Guten Tag! 
-咱真的啥都不会...
-
 Recently interested in frontend and gamedev.
 
 #### Platform&Tools
